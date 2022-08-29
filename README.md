@@ -23,3 +23,6 @@ used to handle big data pipelines
 - Scalability: no centralized schedulerbetween diff cron machines
 - Deplyment: deploy smt new constantly
 - Process historic data: backfill/rerun historical data
+
+### 📗 Airflow DAG
+![image](https://user-images.githubusercontent.com/51888893/187300937-2714ac1c-6a21-4733-b233-e1e4455f17b5.png)
