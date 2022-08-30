@@ -1,5 +1,8 @@
 # Apache-Airflow
 data pipeline management framework Airflow and how it can help us solve the problem of the traditional ETL 
+
+![image](https://user-images.githubusercontent.com/51888893/187445687-5718c0d6-c551-4667-b55e-bbb4ed8784ff.png)
+
 ### 📗 what is it?
  is a platform that lets you build and run and monitor workflows or PipeLines
 ### 📗 workflow
@@ -28,6 +31,8 @@ used to handle big data pipelines
 ![image](https://user-images.githubusercontent.com/51888893/187300937-2714ac1c-6a21-4733-b233-e1e4455f17b5.png)
 
 ## 🔶  Set up airflow environment with docker
+![image](https://user-images.githubusercontent.com/51888893/187445491-7aacc201-a41f-4a52-905a-22eea4a20607.png)
+
 allows you to run many containers simultaneously
 
 - `container are lightweight` no need of  of hypervisor
