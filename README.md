@@ -37,7 +37,9 @@ allows you to run many containers simultaneously
 
 - `container are lightweight` no need of  of hypervisor
 - you can run more container than if tou were using virtual machine
+- 
 **Beneficts:**
+
   - no more taks-managing/manteining dependencies, deployment
   - easy to share & deploy different version & environments
   - keep track through github tags & releases 
