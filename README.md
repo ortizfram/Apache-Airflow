@@ -29,3 +29,6 @@ used to handle big data pipelines
 
 ## 🔶  Set up airflow environment with docker
 allows you to run many containers simultaneously
+
+- `container are lightweight` no need of  of hypervisor
+- you can run more container than if tou were using virtual machine
