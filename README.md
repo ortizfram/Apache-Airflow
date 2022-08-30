@@ -31,6 +31,8 @@ used to handle big data pipelines
 ![image](https://user-images.githubusercontent.com/51888893/187300937-2714ac1c-6a21-4733-b233-e1e4455f17b5.png)
 
 ## 🔶  Set up airflow environment with docker
+[Docker & DockerCompose](https://docs.docker.com/desktop/install/windows-install/)
+
 ![image](https://user-images.githubusercontent.com/51888893/187445491-7aacc201-a41f-4a52-905a-22eea4a20607.png)
 
 allows you to run many containers simultaneously
