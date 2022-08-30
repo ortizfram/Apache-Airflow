@@ -26,3 +26,6 @@ used to handle big data pipelines
 
 ### 📗 Airflow DAG
 ![image](https://user-images.githubusercontent.com/51888893/187300937-2714ac1c-6a21-4733-b233-e1e4455f17b5.png)
+
+## 🔶  Set up airflow environment with docker
+allows you to run many containers simultaneously
